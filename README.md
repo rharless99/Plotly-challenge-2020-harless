@@ -6,3 +6,5 @@ The choices stored in the dropdown came from the json file of all id numbers in 
 The Demographic box took in all key value pairs from the json file to give a summary for each id.
 
 The horizontal bar graph and bubble chart were done using Plotly and gathering the parts of the json file necessary to build the graphs. 
+
+**Special Note:  No graphs appear until you make a selection form the dropdown menu selector. 
